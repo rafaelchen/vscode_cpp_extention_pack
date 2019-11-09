@@ -1,6 +1,7 @@
 # README
 
 it is a extension pack for C/C++ developer. it includes not only some pure C/C++ extension, but also some could increase your produtivity.
+
 Chinese : 這是我在vs code 開發C++時，覺得好用的extentsion，因為在marketplace裡，很難找到C++相關的extension，所以有了這個想法。
           除此之外，此pack裡也包含了一些在開發時，我覺得讓界面看起來漂亮一些或是有助生產力的工具。
 
