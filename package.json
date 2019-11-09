@@ -1,0 +1,32 @@
+{
+    "name": "cpp-extension-pack",
+    "displayName": "C++_extension_pack",
+    "description": "some useufl extensions with C++ development",
+    "publisher": "RafaelChen",
+    "icon": "icon.png",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rafaelchen/vscode_cpp_extention_pack"
+    },
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Atishay-Jain.All-Autocomplete",
+        "jeff-hykin.better-cpp-syntax",
+        "aaron-bond.better-comments",
+        "alefragnani.bookmarks",
+        "coenraads.bracket-pair-colorizer-2",
+        "ms-vscode.cpptools",
+        "kaiwood.center-editor-window",
+        "micnil.vscode-checkpoints",
+        "trixnz.go-to-method",
+        "mishkinf.goto-next-previous-member",
+        "gruntfuggly.todo-tree",
+        "peaceshi.syntax-highlight"
+    ]
+}
