@@ -4,7 +4,7 @@
     "description": "some useufl extensions with C++ development",
     "publisher": "RafaelChen",
     "icon": "icon.png",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/rafaelchen/vscode_cpp_extention_pack"
@@ -27,6 +27,7 @@
         "trixnz.go-to-method",
         "mishkinf.goto-next-previous-member",
         "gruntfuggly.todo-tree",
-        "peaceshi.syntax-highlight"
+        "peaceshi.syntax-highlight",
+        "mishkinf.vscode-edits-history"
     ]
 }
