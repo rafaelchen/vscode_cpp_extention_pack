@@ -8,15 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - NONE
 
-## [0.01]
+## [0.04]
 
-- Initial release
+### Added
 
-## [0.02]
-
-### Changed
-
-- revise some wording in README
+- extension : C++ Helper
 
 ## [0.03]
 
@@ -24,8 +20,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - extension : Navigate Edits History - Goto Last Edit
 
-## [0.04]
+## [0.02]
 
-### Added
+### Changed
 
-- extension : C++ Helper
+- revise some wording in README
+
+## [0.01]
+
+- Initial release
