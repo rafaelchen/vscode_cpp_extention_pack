@@ -8,17 +8,24 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - NONE
 
+## [0.05]
+
+### Added
+
+- Cpp Reference and Documentation
+- Better Align
+
 ## [0.04]
 
 ### Added
 
-- extension : C++ Helper
+- C++ Helper
 
 ## [0.03]
 
 ### Added
 
-- extension : Navigate Edits History - Goto Last Edit
+- Navigate Edits History - Goto Last Edit
 
 ## [0.02]
 

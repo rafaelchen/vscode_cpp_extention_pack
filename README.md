@@ -23,5 +23,7 @@ The Pack includes (the introduction of each extension is the excerpt from the or
 * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) : Show TODO, FIXME, etc. comment tags in a tree view
 * [Navigate Edits History - Goto Last Edit](https://marketplace.visualstudio.com/items?itemName=mishkinf.vscode-edits-history) : A Visual Studio Extension that provides the ability to quickly navigate back and forth between recently made edits
 * [C++ Helper](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.cpp-helper) : Create implementation for c++ function prototypes.
+* [Cpp Reference and Documentation](https://marketplace.visualstudio.com/items?itemName=FederAndInk.cpp-reference-and-documentation) : Search Cpp Documentation, cppreference.com.
+* [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) : Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>)
 
 **Enjoy!**
